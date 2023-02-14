@@ -1,1 +1,2 @@
-gvsjjsl
+first we learn what is git and github
+
